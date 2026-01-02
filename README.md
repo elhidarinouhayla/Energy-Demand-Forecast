@@ -42,7 +42,7 @@ Le dataset contient des mesures horaires avec les colonnes suivantes :
 ## 🛠️ Technologies Utilisées
 
 ```python
-- Python 3.x
+- Python
 - TensorFlow / Keras
 - Pandas
 - NumPy
