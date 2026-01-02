@@ -52,7 +52,7 @@ Le dataset contient des mesures horaires avec les colonnes suivantes :
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```
 EcoVolt-LSTM-Prediction/
@@ -77,8 +77,8 @@ EcoVolt-LSTM-Prediction/
 
  **Cloner le repository** :
    ```bash
-   git clone https://github.com/votre-repo/ecovolt-lstm.git
-   cd ecovolt-lstm
+   git clone https://github.com/elhidarinouhayla/Energy-Demand-Forecast.git
+   cd Energy-Demand-Forecast
    ```
 
 
