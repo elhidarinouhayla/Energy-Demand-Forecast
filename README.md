@@ -18,6 +18,7 @@ L'objectif est d'anticiper la consommation de l'heure suivante (t+1) à partir d
 
 ---
 
+
 ##  Dataset
 
 Le dataset contient des mesures horaires avec les colonnes suivantes :
