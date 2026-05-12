@@ -1,5 +1,6 @@
 # Energy-Demand-Forecast
 
+
 ##  Description du Projet
 
 Ce projet implémente un modèle LSTM (Long Short-Term Memory) pour prédire la consommation électrique horaire d'un réseau intelligent (Smart Grid) géré par la start-up **EcoVolt**.
