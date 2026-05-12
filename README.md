@@ -7,7 +7,6 @@ Ce projet implémente un modèle LSTM (Long Short-Term Memory) pour prédire la 
 
 L'objectif est d'anticiper la consommation de l'heure suivante (t+1) à partir des 24 heures précédentes, en tenant compte du mix énergétique (nucléaire, solaire, éolien, etc.).
 
-
 ---
 
 ##  Objectifs Pédagogiques
